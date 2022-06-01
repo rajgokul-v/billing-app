@@ -1,0 +1,37 @@
+.order-container{
+  width: 85%;
+  min-height: 50vh;
+  margin-left: 12rem;
+  background-color: var(--color-white);
+}
+
+.order-container ul {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  background: var(--color-white-1);
+  list-style: none;
+}
+
+.order-container ul li {
+  margin: 10px;
+  padding: 0px 20px;
+}
+
+.buttons {
+  margin-top: 0px 10px;
+  padding: 20px;
+}
+
+.btn-refresh{
+  margin-left: 40rem;
+  background: var(--color-primary);
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+button{
+  padding: 5px;
+  margin: 0px 10px;
+}

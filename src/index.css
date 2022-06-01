@@ -1,0 +1,14 @@
+:root {
+	--color-primary: #0073ff;
+	--color-primary-1: #b6d2f575;
+	--color-white: #fff;
+	--color-white-1: rgb(163, 157, 157);
+	--color-black: #141d28;
+	--color-black-1: #212b38;
+	--color-red: #d03b37;
+}
+
+.container{
+  background: var(--color-white-1);
+  min-height: 100vh;
+}
